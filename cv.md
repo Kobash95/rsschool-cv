@@ -19,3 +19,5 @@
 * ##### HTMLAcademy
 * ##### Codewars
 * ##### Codeacademy
+## Education
+* ##### 2012- 2017 Brest State Technical University - Industrial Electronics
