@@ -21,3 +21,8 @@
 * ##### Codeacademy
 ## Education
 * ##### 2012- 2017 Brest State Technical University - Industrial Electronics
+#### Specializations:
+* ##### Microelectronic and Microprocessor Control Systems and Computer Devices
+  ##### Technologies and Electronic Communication Facilities
+## English
+##### Between B1 Intermediate and B2 Upper Intermediate
