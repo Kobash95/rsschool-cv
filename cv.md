@@ -1,9 +1,6 @@
 # *Gritsuk Alexander*
 ## Contacts
 ##### +375 (33) 6714339
-##### telegram: @Ko_bash
-##### e-mail: potyzaliks@mail.ru    
-##### github: @Kobash95
 ##### Telegram: @Ko_bash
 ##### E-mail: potyzaliks@mail.ru    
 ##### Github: @Kobash95
